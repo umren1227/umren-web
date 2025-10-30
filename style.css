@@ -1,0 +1,24 @@
+nav
+{
+    background-color:rgb(1, 3, 105) ;
+}
+body
+{
+    
+    background-color: rgb(1, 3, 105);
+}
+h1,h5,p{
+    color: white;
+
+}
+pre
+{
+    background-image: url("photos/bg photo.webp");
+    background-size:cover;
+    background-position: center;
+    
+    
+}
+h3{
+    color: black;
+}
